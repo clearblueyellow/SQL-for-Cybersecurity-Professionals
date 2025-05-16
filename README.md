@@ -1,1 +1,1 @@
-# SQL-for-Cybersecurity-Professionals
+# SQL for Cybersecurity Professionals
